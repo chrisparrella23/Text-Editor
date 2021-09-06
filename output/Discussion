@@ -1,0 +1,3 @@
+The three-loop method takes much longer to complete than the one-loop method.
+In the three-loop method, the array input is traversed three times, once for each loop.
+The one-loop method iterates through the array only once. Both methods have a complexity of O(n).
